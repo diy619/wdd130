@@ -50,7 +50,7 @@ main img {
     width: 150px;
     height: auto;
     border: 5px burlywood;
-    box-shadow: 10px red;
+    box-shadow: 10px black;
     padding: 10px;
 }
 
