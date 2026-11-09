@@ -10,7 +10,7 @@ main {
 aside {
     width: 4000px;
     margin: 10px;
-    border: 5px solid indianred;
+    border: 5px indianred;
     padding: 5px;
     background-color: brown;
     color: white;
@@ -35,7 +35,7 @@ main {
 h1 {
     width: 400px;
     margin: 10px;
-    border: 4px solid beige;
+    border: 4px beige;
     background-color: brown;
     color: white;
     text-align: left;
