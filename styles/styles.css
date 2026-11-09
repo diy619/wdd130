@@ -1,0 +1,33 @@
+main {
+    width: 400px;
+}
+
+aside {
+    width: 4000px;
+    margin: 10px;
+    border: 5px solid indianred;
+    padding: 5px;
+    background-color: brown;
+    color: white;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+
+}
+
+main img {
+    width: 150px;
+    height: auto;
+}
+
+p {
+    padding: 0;
+}
+
+footer {
+    margin-top: 15px;
+    border-top: 25px;
+    text-align: center;
+}
