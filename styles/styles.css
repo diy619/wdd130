@@ -49,8 +49,9 @@ h2 {
 main img {
     width: 150px;
     height: auto;
-    border: 5px solid burlywood;
+    border: 5px burlywood;
     box-shadow: 10px solid black;
+    padding: 10px;
 }
 
 p {
