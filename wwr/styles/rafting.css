@@ -83,7 +83,8 @@ article {
 
 .hero article img {
     float: right;
-    width: 100px;
+    width: 150px;
+    height: auto;
     border: solid 4px var(--primary-color);
 
 }
