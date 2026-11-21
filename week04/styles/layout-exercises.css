@@ -14,6 +14,8 @@ div {
     margin: 1rem;
     border: 1px dashed;
     padding: 1rem;
+    justify-content: space-around;
+    flex-direction: row;
 }
 
 .one {
@@ -23,7 +25,9 @@ div {
 
 .flex {
     background-color: #aba;
-    /* write declarations here */
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
 
 }
 
@@ -34,13 +38,16 @@ div {
 }
 
 .container2 {
-    /* write declarations here */
+    justify-content: space-around;
+    flex-direction: row;
 
 }
 
 .two {
     background-color: #ace;
     height: 100px;
+    justify-content: space-around;
+    flex-direction: row;
 }
 
 .container3 {
@@ -56,4 +63,6 @@ div {
 .three {
     margin: .25rem;
     background-color: #abd;
+    justify-content: space-around;
+    flex-direction: row;
 }
